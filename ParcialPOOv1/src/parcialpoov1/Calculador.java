@@ -9,9 +9,6 @@ package parcialpoov1;
  *
  * @author Estudiantes
  */
-public class Punto {
-    private int x, y;
-    
-    
+public class Calculador {
     
 }
