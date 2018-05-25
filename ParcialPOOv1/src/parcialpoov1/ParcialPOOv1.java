@@ -20,9 +20,15 @@ public class ParcialPOOv1 {
 
         Calculador miCalculador;
         miCalculador = new Calculador();
+        Punto Punto1;
+        Punto1 = new Punto();
+        Punto Punto2;
+        Punto2 = new Punto();
         Scanner MyScan;
         MyScan = new Scanner(System.in);
-        System.out.print("ingrese el punto 1 : ");
+        System.out.print("ingrese la primera coordenada del punto 1 : ");
+        Punto1.getX()=
+        
         
 
         // TODO code application logic here
